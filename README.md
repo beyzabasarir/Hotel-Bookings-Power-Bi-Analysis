@@ -112,7 +112,7 @@ Interactive slicers  added to allow users to view the dataset dynamically. These
 
 ## Dashboard & Insights
 
-![Hotel Performance PowerBI Dashboard](https://github.com/beyzabasarir/Hotel-Bookings-Power-Bi-Analysis/blob/main/Hotel-Performance-PowerBi-Dashboard.gif) 
+![Hotel Performance PowerBI Dashboard](https://github.com/beyzabasarir/Hotel-Bookings-Power-Bi-Analysis/blob/main/Hotel-Bookings-PowerBi-Dashboard.gif) 
 
 > **Note**: The quality of this GIF may appear lower than expected. A comprehensive view of the dashboard was intended, including tooltips and slicer performance. However, due to file size limitations on GitHub, the file had to be compressed, resulting in some degradation of visual quality. For the best experience, you can download and explore the full-resolution dashboard in Power BI by accessing the [Power BI file here](https://github.com/beyzabasarir/Hotel-Bookings-Power-Bi-Analysis/blob/main/Hotel-Bookings-Power-Bi.pbix) and opening it in Power BI Desktop.
 
