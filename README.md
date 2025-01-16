@@ -57,7 +57,7 @@ New metrics, such as "total_stay," were created to better understand guest durat
         'hotel_bookings'[average_daily_rate] * 'hotel_bookings'[total_stay]
     ),
     'hotel_bookings'[is_canceled] = 0
-)
+    )
     ```
 
   - **Cancellation Rate**: Measured as the ratio of canceled reservations to total reservations.
