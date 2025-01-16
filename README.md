@@ -1,5 +1,11 @@
 # Hotel Bookings Analysis - Power BI Dashboard
 
+<p align="center">
+  <img src="https://drive.google.com/uc?id=1HHAROfbgFfQb9ers5X79Vlk0yGXvfDh5" width="30%" />
+  <img src="https://drive.google.com/uc?id=1UGtlCGbvkcuu0QvWOhLsosj_ccuCfTHj" width="30%" />
+  <img src="https://drive.google.com/uc?id=1fY8nkTxdzB5kctd8_IoyQLqwKvDTUxSl" width="30%" />
+</p>
+
 ## Introduction
 
 This project presents a Power BI dashboard developed to analyze hotel booking trends and provide actionable insights. The dataset used for this analysis comprises real-world hotel booking records for two types of hotels—City Hotel and Resort Hotel—over a span of two years. Through this analysis, the goal is to present a clear and concise overview of booking behaviors, identify trends, and provide meaningful insights into customer preferences and operational outcomes.
@@ -110,7 +116,7 @@ Dashboards were developed to provide an intuitive overview of trends, comparison
 
 Interactive slicers  added to allow users to view the dataset dynamically. These slicers enable filtering by various dimensions, such as year, distribution channel, and customer type, facilitating deeper analysis tailored to specific queries. 
 
-## Dashboard & Insights
+## Dashboard 
 
 ![Hotel Performance PowerBI Dashboard](https://github.com/beyzabasarir/Hotel-Bookings-Power-Bi-Analysis/blob/main/Hotel-Bookings-PowerBi-Dashboard.gif) 
 
