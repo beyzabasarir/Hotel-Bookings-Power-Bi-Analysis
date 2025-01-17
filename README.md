@@ -116,20 +116,44 @@ Dashboards were developed to provide an intuitive overview of trends, comparison
 
 Interactive slicers  added to allow users to view the dataset dynamically. These slicers enable filtering by various dimensions, such as year, distribution channel, and customer type, facilitating deeper analysis tailored to specific queries. 
 
-## Dashboard 
+## Dashboard & Insights
 
 ![Hotel Performance PowerBI Dashboard](https://github.com/beyzabasarir/Hotel-Bookings-Power-Bi-Analysis/blob/main/Hotel-Bookings-PowerBi-Dashboard.gif) 
 
 > **Note**: The quality of this GIF may appear lower than expected. A comprehensive view of the dashboard was intended, including tooltips and slicer performance. However, due to file size limitations on GitHub, the file had to be compressed, resulting in some degradation of visual quality. For the best experience, you can download and explore the full-resolution dashboard in Power BI by accessing the [Power BI file here](https://github.com/beyzabasarir/Hotel-Bookings-Power-Bi-Analysis/blob/main/Hotel-Bookings-Power-Bi.pbix) and opening it in Power BI Desktop.
 
-### Hotel Performance Analysis
-City Hotel generates the majority of reservations and revenue, making it the more popular choice among guests. Although City Hotel has a higher number of repeated guests, Resort Hotel demonstrates stronger guest loyalty when assessed as a proportion of total reservations, potentially indicating differences in guest experiences or offerings. Seasonal trends reveal contrasting patterns: City Hotel sees a peak in daily guests from April to June, followed by a notable drop in July, while Resort Hotel maintains steady demand year-round, with slight increases in daily guest numbers during April, May, July, and August. Revenue patterns reflect these trends, with summer months generally yielding higher revenue for both hotels. Interestingly, despite hosting fewer guests overall, Resort Hotel surpasses City Hotel in revenue during July and August, although City Hotel remains the annual leader.
+### Performance Overview
 
-### Guests Analysis
-The "Guests Analysis" page explores guest behavior and demographics in detail. Transient guests dominate, indicating a preference for short-term, individual stays. Summer months feature longer stays, especially among contract customers, aligning with peak travel periods. Loyalty remains an area for growth, as most guests are categorized as low-loyalty. Contract customers stand out as a high-value segment, exhibiting the longest lead times and stays despite their relatively smaller numbers. Room preferences are focused on a few key categories, with Room Type A accommodating the largest share of guests.
+- City Hotel generates the majority of reservations and revenue, making it the preferred choice among guests.
 
-### Reservations Analysis
-The "Reservations Analysis" page highlights significant seasonal and geographic patterns in reservations and cancellations. Summer months, particularly July, see higher cancellation rates, reflecting booking volatility during peak travel periods. Regions such as Portugal and Brazil show notably high cancellation rates, indicating opportunities for targeted strategies to reduce cancellations in these markets. Online Travel Agencies are identified as the primary channel for cancellations, suggesting the need for stronger guest retention efforts within this segment. Processed reservations peak in August, coinciding with heightened seasonal activity, emphasizing the need for efficient operations during this time.
+- While it has a higher number of repeat guests, Resort Hotel demonstrates stronger guest loyalty as a proportion of total reservations.
 
-### General Insights
-The analysis uncovers key opportunities to refine operational and strategic approaches across both hotels. City Hotel’s summer performance, characterized by a guest drop in July, contrasts with Resort Hotel’s steady demand and higher revenue during the same period. This points to potential for City Hotel to optimize its mid-summer offerings to sustain performance. Resort Hotel’s ability to generate higher revenue with fewer guests during peak months suggests effective pricing or guest spending patterns that could be further leveraged. Low guest loyalty across both hotels signals the need for enhanced loyalty programs, particularly for City Hotel, which relies heavily on transient guests. Addressing high cancellation rates, particularly in regions like Portugal and Brazil and within Online Travel Agency bookings, offers a clear path to revenue retention. By focusing on seasonal optimization, strengthening loyalty strategies, and targeting key regional markets, both hotels can achieve more consistent performance and sustained growth.
+- City Hotel experiences peak daily guest numbers from April to June, followed by a significant drop in July, suggesting that City Hotel could enhance mid-summer offerings.
+
+- Resort Hotel maintains steady demand year-round, with slight increases in April, May, July, and August.
+
+- Both hotels see higher earnings during the summer months.
+
+- Despite hosting fewer guests, Resort Hotel surpasses City Hotel in revenue during July and August, although City Hotel remains the annual leader overall.
+
+### Guest Insights
+
+- Transient guests dominate bookings, reflecting a preference for short-term, individual stays.
+
+- Summer months see longer stays, particularly among contract customers, aligning with peak travel periods.
+
+- Guest loyalty remains low overall, presenting an area for growth.
+
+- Contract customers, though fewer in number, represent a high-value segment with the longest lead times and stays.
+
+- Room Type A emerges as the most popular choice, accommodating the largest share of guests.
+
+### Reservation Trends
+
+- Cancellation rates peak during the summer, especially in July, reflecting booking volatility during peak travel periods.
+
+- Regions such as Portugal and Brazil exhibit high cancellation rates, signaling opportunities for targeted strategies to reduce cancellations.
+
+- Online Travel Agencies are the primary source of cancellations, emphasizing the need for stronger retention efforts within this channel.
+
+- Processed reservations peak in August, coinciding with increased seasonal activity.
